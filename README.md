@@ -8,7 +8,7 @@ Current update for both is manual.
 
 Scripts are semi-functional, but intially AI work and poorly planned.
 
-##TODO
+## TODO
 - Implement an automated data collection.
 - Update scripts to account for better workflow.
 - Refactor
